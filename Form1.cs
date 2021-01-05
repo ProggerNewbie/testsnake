@@ -29,7 +29,7 @@ namespace Snake
         int[] foodXPos;
         int[] foodYPos;
         int AmountOfFood = 1;       //Amount of food on screen at a time
-        bool rePlaceFood = true;  // comment for github test 
+        bool rePlaceFood = true;  // comment for github test 2
 
         private void Form1_Load(object sender, EventArgs e)
         {
